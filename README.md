@@ -1,6 +1,6 @@
 # Sistema de Cálculo de Descontos para Marketplace
 
-## Seu Nome: 
+## Guilherme: 
 
 ## Visão Geral do Projeto
 
